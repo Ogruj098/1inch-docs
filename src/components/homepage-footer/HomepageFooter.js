@@ -65,7 +65,7 @@ const FooterLinks = {
                     link: 'https://1inch.io/press-room/'
                 },
                 {
-                    title: 'Terms of service',
+                    title: 'Terms of use',
                     link: 'https://1inch.io/assets/1inch_network_terms_of_use.pdf'
                 },
                 {
@@ -114,7 +114,7 @@ const FooterLinks = {
             image: <YoutubeImage/>
         },
         {
-            href: 'https://t.me/OneInchNetwork',
+            href: 'https://t.me/OneInchNetworkNews',
             image: <TelegramImage/>
         },
         {
